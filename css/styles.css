@@ -1,0 +1,13 @@
+.intro {
+  color: salmon;
+  font-style: italic;
+}
+body {
+  background-color: lightpink;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
